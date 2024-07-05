@@ -1,0 +1,1 @@
+my txt file.i wand to find diff between working directory and staging area
